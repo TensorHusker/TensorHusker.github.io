@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tensorhusker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nscott.me
+  * I am tensorhusker (https://keybase.io/tensorhusker) on keybase.
+  * I have a public key ASAJDFfVIFEL1beM_z4pVERPDw5Qpi69JjzkJAgeU35-mgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012015589327646e41b8dcd10cb5115ef1b7c4f09025042c948d2b56c6e6dc4149540a",
+      "host": "keybase.io",
+      "kid": "0120090c57d520510bd5b78cff3e2954444f0f0e50a62ebd263ce424081e537e7e9a0a",
+      "uid": "18597cd1e2f4795b6f279e4805181619",
+      "username": "tensorhusker"
+    },
+    "merkle_root": {
+      "ctime": 1611087838,
+      "hash": "3c4b938c7238d260ea748822e27c9f633ac4566140da2622dc648d9de329ed961f4fca893b3834e2ba615f4d82aab77827b1f08567d59760f860d7e67df73b40",
+      "hash_meta": "02cf21c69c1958ce452ab25630284a7a6f13cb094d9561dd24c60e1d655d0ac8",
+      "seqno": 18837138
+    },
+    "service": {
+      "entropy": "vqd8Y44heHuasMdJvN4tqvIB",
+      "hostname": "nscott.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1611087885,
+  "expire_in": 504576000,
+  "prev": "9a6055d94cf9bcb40a385b9293cc5227ff1670067ffe8ab80565792ca95b661e",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCQxX1SBRC9W3jP8+KVRETw8OUKYuvSY85CQIHlN+fpoKp3BheWxvYWTESpcCGcQgmmBV2Uz5vLQKOFuSk8xSJ/8WcAZ//oq4BWV5LKlbZh7EICnGIZGnKxPTCyVZZE3fAqCLECV1pBluAnQbK+nXUucoAgHCo3NpZ8RATJa1nyC56xNm1v/44fAuL8TVVmVvEIbs0znu7e9KMRBUcAJixVl7HK9HqcS/QkSe8a/ibTUTDDgeSlmeNnwvAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDOmo/eqnHvIyewf74G6gXZZn5ixGZ4/r6AhLvH17LRZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tensorhusker
+
+==================================================================
